@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa5c07</color>
+    <color name="colorPrimaryDark">#b23c17</color>
+    <color name="colorAccent">#ff784e</color>
+    <color name="colorAzur">#f1f5f8</color>
+    <color name="white">#fff</color>
+    <color name="status_splash">#F9B002</color>
+    <color name="colorFb">#3b5998</color>
+    <color name="colorGoogle">#d34836</color>
+
+
+</resources>
